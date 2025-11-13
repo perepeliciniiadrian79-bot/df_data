@@ -1,1 +1,3 @@
-# df_data
+Technologien
+- **Python**: pandas (Datenverarbeitung), matplotlib & seaborn (Visualisierung)  
+- **Jupyter Notebook**  
